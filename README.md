@@ -16,3 +16,5 @@ gcc leercadena_main.c -o leercadena_main leercadena.o
 ```
 
 Visite [google](https://www.google.com).
+
+<img src="panda.jpg"> 
